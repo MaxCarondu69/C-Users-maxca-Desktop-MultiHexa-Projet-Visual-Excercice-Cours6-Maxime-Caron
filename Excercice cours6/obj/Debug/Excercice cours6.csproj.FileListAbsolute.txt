@@ -1,0 +1,8 @@
+C:\Users\maxca\Desktop\MultiHexa\Projet Visual\Excercice cours6\Excercice cours6\bin\Debug\Excercice cours6.exe.config
+C:\Users\maxca\Desktop\MultiHexa\Projet Visual\Excercice cours6\Excercice cours6\bin\Debug\Excercice cours6.exe
+C:\Users\maxca\Desktop\MultiHexa\Projet Visual\Excercice cours6\Excercice cours6\bin\Debug\Excercice cours6.pdb
+C:\Users\maxca\Desktop\MultiHexa\Projet Visual\Excercice cours6\Excercice cours6\obj\Debug\Excercice cours6.csproj.AssemblyReference.cache
+C:\Users\maxca\Desktop\MultiHexa\Projet Visual\Excercice cours6\Excercice cours6\obj\Debug\Excercice cours6.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxca\Desktop\MultiHexa\Projet Visual\Excercice cours6\Excercice cours6\obj\Debug\Excercice cours6.csproj.CoreCompileInputs.cache
+C:\Users\maxca\Desktop\MultiHexa\Projet Visual\Excercice cours6\Excercice cours6\obj\Debug\Excercice cours6.exe
+C:\Users\maxca\Desktop\MultiHexa\Projet Visual\Excercice cours6\Excercice cours6\obj\Debug\Excercice cours6.pdb
